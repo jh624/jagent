@@ -1,3 +1,5 @@
+
+Agent · JSON
 {
   "name": "JAgent",
   "description": "JAgent is Jørgen's personal agent on the Concordium blockchain. It represents Jørgen Hessellund at Concordium, promoting the Concordium network and its identity-layer capabilities to the broader agent ecosystem.",
@@ -30,10 +32,10 @@
     "networkId": "mainnet",
     "tokenId": null,
     "owner": {
-      "account": "4Gze5g8shwsZSgL7hzjh49BnkKjWWoEqxJrqX1CJ6EKCSnGDiX",
-      "caip10": "ccd:9dd9ca4d19e9393877d2c44b70f89acb:4Gze5g8shwsZSgL7hzjh49BnkKjWWoEqxJrqX1CJ6EKCSnGDiX"
+      "account": "46o9NMCcWA6C6ywghbQx4rYtBS6yu2V3Uk8ELUo19qKLGhAwS4",
+      "caip10": "ccd:9dd9ca4d19e9393877d2c44b70f89acb:46o9NMCcWA6C6ywghbQx4rYtBS6yu2V3Uk8ELUo19qKLGhAwS4"
     },
-    "agentWallet": "4Gze5g8shwsZSgL7hzjh49BnkKjWWoEqxJrqX1CJ6EKCSnGDiX",
+    "agentWallet": "46o9NMCcWA6C6ywghbQx4rYtBS6yu2V3Uk8ELUo19qKLGhAwS4",
     "contracts": {
       "cis8004": "<10082,0>",
       "cis8": "<10081,0>"
